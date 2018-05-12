@@ -1,0 +1,38 @@
+_repo: A-Manual-of-the-Art-of-Fiction_30183
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Matthews, Brander
+    aliases:
+    - Matthews, J. Brander (James Brander)
+    - Penn, Arthur
+    - Matthews, James Brander
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamilton, Clayton Meeker
+    birthdate: 1881
+    deathdate: 1946
+    gutenberg_agent_id: '5143'
+    url: http://www.gutenberg.org/2009/agents/5143
+description: ''
+gutenberg_issued: '2009-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30183'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Fiction'
+title: A Manual of the Art of Fiction
+url: http://www.gutenberg.org/ebooks/30183
